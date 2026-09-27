@@ -1,0 +1,5 @@
+#!/bin/bash
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+
+wt.exe wsl.exe -d Ubuntu bash -lc "cd '$SCRIPT_DIR' && ./file_explorer_program"

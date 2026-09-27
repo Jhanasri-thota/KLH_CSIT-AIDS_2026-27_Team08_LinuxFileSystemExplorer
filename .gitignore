@@ -1,0 +1,7 @@
+*.o
+*.save
+*~
+src/file_explorer_program
+src/ossp_fifo
+src/fifo_sender
+src/fifo_receiver
