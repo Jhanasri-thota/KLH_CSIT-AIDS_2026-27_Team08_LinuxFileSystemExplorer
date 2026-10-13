@@ -1,0 +1,3 @@
+#!/bin/bash
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+wt.exe new-tab --title "Linux File System Explorer" wsl.exe -d Ubuntu -- bash -lc "cd '$SCRIPT_DIR' && ./file_explorer_program"

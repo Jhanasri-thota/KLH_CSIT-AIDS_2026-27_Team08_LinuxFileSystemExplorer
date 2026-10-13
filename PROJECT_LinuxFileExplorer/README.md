@@ -146,3 +146,26 @@ The directory is opened using:
 
 ```c
 opendir()
+
+
+
+
+
+
+
+---
+
+# 10. Setup Instructions
+
+## Requirements
+
+- Ubuntu / WSL
+- GCC compiler
+- GNU Make
+- POSIX Threads support
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/Jhanasri-thota/KLH_CSIT-AIDS_2026-27_Team08_LinuxFileSystemExplorer.git
+cd KLH_CSIT-AIDS_2026-27_Team08_LinuxFileSystemExplorer
