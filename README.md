@@ -12,7 +12,7 @@ A menu-driven Linux application developed using C to demonstrate operating syste
 | Course Code | 25CS2104E |
 | Project Title | Linux File System Explorer System Calls |
 | Team Number | 08 |
-| Department | Computer Science and Engineering |
+| Department | CS&IT , AI&DS|
 | Faculty Guide | Raghupathi M |
 
 ---
