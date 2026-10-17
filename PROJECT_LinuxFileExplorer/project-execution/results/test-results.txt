@@ -1,0 +1,21 @@
+PROJECT: Linux File System Explorer Using System Calls
+
+Test Case 1: File Operations
+Expected Result: File operations should execute correctly.
+Status: Pending Testing
+
+Test Case 2: Directory Operations
+Expected Result: Directory operations should execute correctly.
+Status: Pending Testing
+
+Test Case 3: Process Management
+Expected Result: Process information should be displayed.
+Status: Pending Testing
+
+Test Case 4: Pipe IPC
+Expected Result: Data should be transferred between processes.
+Status: Pending Testing
+
+Test Case 5: FIFO IPC
+Expected Result: Data should be exchanged through a named pipe.
+Status: Pending Testing
